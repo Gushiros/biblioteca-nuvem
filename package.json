@@ -1,6 +1,15 @@
 {
-"name": "biblioteca-nuvem", 
-"version": "1.0.0", 
-"main": "server.js", 
-"scripts": { "start": "node server.js" }
+  "name": "portfolio-leitura",
+  "version": "1.0.0",
+  "description": "Portfólio de leitura pessoal com Node.js e Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author 1": "Gustavo Hiroshi Takagi Souza Lima",
+  "author 2": "Gabriel Cayres Gonçalves",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.22.3"
+  }
 }
