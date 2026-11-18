@@ -142,7 +142,7 @@ const paginaHTML = `
     <section>
       <h2>Contato e informações</h2>
       <div class="contato">
-        <p>📧 E-mail: <a href="mailto:leitor@exemplo.com">gustavotakagisouzalima@gmail.com</a></p>
+        <p>📧 E-mail: <a href="mailto:leitor@exemplo.com">portfoliodeleitura@gmail.com</a></p>
         <p>📖 Encontro do clube do livro: toda quinta-feira, às 20h (virtual)</p>
         <p>🌐 Instagram: <a href="#">@portfoliodeleitura</a></p>
       </div>
@@ -150,7 +150,7 @@ const paginaHTML = `
   </main>
 
   <footer>
-    © 2025 — Portfólio de Leitura | Projeto acadêmico em Node.js
+    © 2026 — Portfólio de Leitura | Projeto acadêmico em Node.js
   </footer>
 </body>
 </html>
